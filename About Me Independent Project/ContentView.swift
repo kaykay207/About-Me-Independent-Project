@@ -27,7 +27,7 @@ struct ContentView: View {
                     .padding()
                 Button("reveal fact") {
                     // action for button *below*
-                    fact = "I attend a career based magnet high school with a focus on theatre, and am working to become a film actress in the future."
+                    fact = "I am working to become a film actress in the future, & I attend a career based magnet high school with a focus on theatre."
                 }
                 .font(.headline)
                 .buttonStyle(.borderedProminent)
